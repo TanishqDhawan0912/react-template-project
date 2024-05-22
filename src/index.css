@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo .mo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.logo .cart {
+  font-family: "Dancing Script", cursive;
+}
+
+.mobilelist::marker {
+  color: cyan;
+}
